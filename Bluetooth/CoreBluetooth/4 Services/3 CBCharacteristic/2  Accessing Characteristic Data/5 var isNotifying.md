@@ -5,7 +5,7 @@ Instance Property 实例属性
 A Boolean value that indicates whether the characteristic is currently notifying a subscribed central of its value.
 一个布尔值，指示特征当前是否正在向订阅中心通知其值。
 
-iOS 5.0+iPadOS 5.0+Mac Catalyst 13.1+macOS 10.7+tvOS 9.0+visionOS 1.0+watchOS 2.0+
+iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.7+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 var isNotifying: Bool { get }

@@ -5,7 +5,7 @@ Class 类
 An object that provides further information about a remote peripheral’s characteristic.
 提供有关远程外围设备特性的进一步信息的对象。
 
-iOS 5.0+iPadOS 5.0+Mac Catalyst 13.1+macOS 10.7+tvOS 9.0+visionOS 1.0+watchOS 2.0+
+iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.7+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 class CBDescriptor

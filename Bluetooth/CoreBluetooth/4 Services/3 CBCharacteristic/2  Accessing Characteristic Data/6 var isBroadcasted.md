@@ -3,7 +3,7 @@
 A Boolean value that indicates whether the characteristic the service broadcasts this characteristic.
 一个布尔值，指示服务是否广播此特征.
 
-iOS 5.0–8.0 iOS 5.0-8.0Deprecated 弃用iPadOS 5.0–8.0 iPadOS 5.0-8.0Deprecated 弃用Mac Catalyst 13.1–13.1 Mac Catalyst 13.1-13.1Deprecated 弃用macOS 10.9–10.13 macOS 10.9-10.13Deprecated 弃用tvOS 9.0+visionOS 1.0–1.0 visionOS 1.0-1.0Deprecated 弃用watchOS 2.0–2.0 watchOS 2.0-2.0Deprecated 弃用
+iOS 5.0–8.0`Deprecated` | iPadOS 5.0–8.0`Deprecated` | Mac Catalyst 13.1–13.1`Deprecated` | macOS 10.9–10.13`Deprecated` | tvOS 9.0+visionOS 1.0–1.0`Deprecated` | watchOS 2.0–2.0`Deprecated`
 
 ```
 var isBroadcasted: Bool { get }

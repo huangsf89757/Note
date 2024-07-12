@@ -5,7 +5,7 @@ Instance Property 实例属性
 An array of the characteristic’s descriptors.
 特征描述符的数组。
 
-iOS 6.0+iPadOS 6.0+Mac Catalyst 13.1+macOS 10.9+tvOS 9.0+visionOS 1.0+watchOS 2.0+
+iOS 6.0+ ｜ iPadOS 6.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.9+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 var descriptors: [CBDescriptor]? { get set }

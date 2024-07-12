@@ -5,7 +5,7 @@ Protocol 协议
 A protocol that provides updates for the discovery and management of peripheral devices.
 为外围设备的发现和管理提供更新的协议。
 
-iOS 5.0+ iOS的5.0+iPadOS 5.0+Mac Catalyst 13.0+macOS 10.10+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 4.0+
+iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.0+ ｜ macOS 10.10+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 4.0+ 
 
 ```
 protocol CBCentralManagerDelegate : NSObjectProtocol

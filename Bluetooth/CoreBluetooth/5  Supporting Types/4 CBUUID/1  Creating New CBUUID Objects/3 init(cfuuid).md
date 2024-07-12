@@ -1,11 +1,11 @@
 Initializer
 
-# init(cfuuid:) init（cfuid：）
+# init(cfuuid:) 
 
 Creates a Core Bluetooth UUID object from a Core Foundation UUID object.
 从Core Foundation UUID对象创建Core Bluetooth UUID对象。
 
-iOS 5.0–9.0 iOS 5.0-9.0Deprecated 弃用iPadOS 5.0–9.0 iPadOS 5.0-9.0Deprecated 弃用Mac Catalyst 13.1–13.1 Mac Catalyst 13.1-13.1Deprecated 弃用macOS 10.7–10.13 macOS 10.7-10.13Deprecated 弃用tvOS 9.0–9.0 tvOS 9.0-9.0Deprecated 弃用visionOS 1.0–1.0 visionOS 1.0-1.0Deprecated 弃用watchOS 2.0–2.0 watchOS 2.0-2.0Deprecated 弃用
+iOS 5.0–9.0`Deprecated` | iPadOS 5.0–9.0`Deprecated` | Mac Catalyst 13.1–13.1`Deprecated` | macOS 10.7–10.13`Deprecated` | tvOS 9.0–9.0`Deprecated` | visionOS 1.0–1.0`Deprecated` | watchOS 2.0–2.0`Deprecated`
 
 ```
 init(cfuuid theUUID: CFUUID)

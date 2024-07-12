@@ -5,7 +5,7 @@ Global Variable 全局变量
 A Boolean value that specifies whether the system should display an alert for any notification sent by a peripheral.
 一个 Boolean 值，该值指定系统是否应针对外围设备发送的任何通知显示警报。
 
-iOS 6.0+ ｜ iPadOS 6.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.13+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ ｜ 
+iOS 6.0+ ｜ iPadOS 6.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.13+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 let CBConnectPeripheralOptionNotifyOnNotificationKey: String

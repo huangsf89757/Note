@@ -5,7 +5,7 @@ Instance Property 实例属性
 The Bluetooth-specific UUID of the attribute.
 属性的蓝牙特定UUID。
 
-iOS 8.0+iPadOS 8.0+Mac Catalyst 13.1+macOS 10.13+tvOS 9.0+visionOS 1.0+watchOS 2.0+
+iOS 8.0+ ｜ iPadOS 8.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.13+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 var uuid: CBUUID { get }

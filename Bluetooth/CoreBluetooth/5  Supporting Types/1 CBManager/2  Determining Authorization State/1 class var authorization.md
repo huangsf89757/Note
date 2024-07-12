@@ -5,7 +5,7 @@ Type Property 类型属性
 The current authorization status for using Bluetooth.
 使用蓝牙的当前授权状态。
 
-iOS 13.1+iPadOS 13.1+Mac Catalyst 13.1+macOS 10.15+tvOS 13.0+visionOS 1.0+watchOS 6.0+
+iOS 13.1+ ｜ iPadOS 13.1+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.15+ ｜ tvOS 13.0+ ｜ visionOS 1.0+ ｜ watchOS 6.0+ 
 
 ```
 class var authorization: CBManagerAuthorization { get }

@@ -5,7 +5,7 @@ Enumeration 枚举
 Values that represent the current state of a central manager object.
 表示中央管理器对象的当前状态的。
 
-iOS 5.0–10.0 iOS 5.0-10.0Deprecated 弃用iPadOS 5.0–10.0 iPadOS 5.0-10.0Deprecated 弃用Mac Catalyst 13.1–13.1 Mac Catalyst 13.1-13.1Deprecated 弃用macOS 10.7–10.13 macOS 10.7-10.13Deprecated 弃用tvOS 9.0–10.0 tvOS 9.0-10.0Deprecated 弃用visionOS 1.0–1.0 visionOS 1.0-1.0Deprecated 弃用watchOS 2.0–3.0 watchOS 2.0-3.0Deprecated 弃用
+iOS 5.0–10.0`Deprecated` | iPadOS 5.0–10.0`Deprecated` | Mac Catalyst 13.1–13.1`Deprecated` | macOS 10.7–10.13`Deprecated` | tvOS 9.0–10.0`Deprecated` | visionOS 1.0–1.0`Deprecated` | watchOS 2.0–3.0`Deprecated`
 
 ```
 enum CBCentralManagerState

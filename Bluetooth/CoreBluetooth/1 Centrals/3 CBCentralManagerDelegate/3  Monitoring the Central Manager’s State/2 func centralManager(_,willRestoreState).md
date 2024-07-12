@@ -5,7 +5,7 @@ Instance Method Instance 方法
 Tells the delegate the system is about to restore the central manager, as part of relaunching the app into the background.
 告知委托系统即将还原中央管理器，作为将应用程序重新启动到后台的一部分。
 
-iOS 5.0+ iOS的5.0+iPadOS 5.0+Mac Catalyst 13.1+macOS 10.7+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 2.0+
+iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.7+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 optional func centralManager(

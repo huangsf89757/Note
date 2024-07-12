@@ -5,7 +5,7 @@ Instance Method Instance 方法
 Tells the delegate the authorization status changed for a ANCS-requiring connected peripheral.
 告知代理需要 ANCS 的已连接外围设备的授权状态已更改。
 
-iOS 13.0+ iOS的 13.0+iPadOS 13.0+Mac Catalyst 13.1+tvOS 13.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 6.0+ watchOS 6.0+ 操作系统
+iOS 13.0+ ｜ iPadOS 13.0+ ｜ Mac Catalyst 13.1+ ｜ tvOS 13.0+ ｜ visionOS 1.0+ ｜ watchOS 6.0+ 
 
 ```
 optional func centralManager(

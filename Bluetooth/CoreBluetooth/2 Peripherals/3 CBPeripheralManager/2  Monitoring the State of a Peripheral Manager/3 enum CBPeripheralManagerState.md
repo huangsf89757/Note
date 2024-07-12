@@ -5,7 +5,7 @@ Enumeration 列举
 Values that represent the current state of the peripheral manager.
 表示外围管理器的当前状态的值。
 
-iOS 6.0–10.0Deprecated 荒废的iPadOS 6.0–10.0Deprecated 荒废的Mac Catalyst 13.1–13.1Deprecated 荒废的macOS 10.9–10.13Deprecated 荒废的tvOS 9.0–10.0Deprecated 荒废的visionOS 1.0–1.0Deprecated 荒废的watchOS 2.0–3.0Deprecated 荒废的
+iOS 6.0–10.0`Deprecated` ｜ iPadOS 6.0–10.0`Deprecated` ｜ Mac Catalyst 13.1–13.1`Deprecated` ｜ macOS 10.9–10.13`Deprecated` ｜ tvOS 9.0–10.0`Deprecated` ｜ visionOS 1.0–1.0`Deprecated` ｜ watchOS 2.0–3.0`Deprecated`
 
 ```
 enum CBPeripheralManagerState

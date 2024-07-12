@@ -5,7 +5,7 @@ Instance Method Instance 方法
 Register for an event notification when the central manager makes a connection matching the given options.
 当中央管理器建立与给定选项匹配的连接时，注册事件通知。
 
-iOS 13.0+ iOS的 13.0+iPadOS 13.0+Mac Catalyst 13.1+tvOS 13.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 6.0+ watchOS 6.0+ 操作系统
+iOS 13.0+ ｜ iPadOS 13.0+ ｜ Mac Catalyst 13.1+ ｜ tvOS 13.0+ ｜ visionOS 1.0+ ｜ watchOS 6.0+ 
 
 ```
 func registerForConnectionEvents(options: [CBConnectionEventMatchingOption : Any]? = nil)

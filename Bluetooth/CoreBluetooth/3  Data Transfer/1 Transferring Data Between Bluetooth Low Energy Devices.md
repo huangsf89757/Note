@@ -7,7 +7,7 @@ Create a Bluetooth low energy central and peripheral device, and allow them to d
 
 [Download  下载](https://docs-assets.developer.apple.com/published/68b84653b34e/TransferringDataBetweenBluetoothLowEnergyDevices.zip)
 
-iOS 12.0+iPadOS 12.0+Xcode 11.1+
+iOS 12.0+ ｜ iPadOS 12.0+ ｜ Xcode 11.1+ 
 
 
 

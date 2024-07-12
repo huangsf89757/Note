@@ -5,7 +5,7 @@ Instance Property 实例属性
 The zero-based index of the first byte for the read or write request.
 读或写请求的第一个字节的从零开始的索引。
 
-iOS 6.0+iPadOS 6.0+Mac Catalyst 13.1+macOS 10.9+tvOS 9.0+visionOS 1.0+watchOS 2.0+
+iOS 6.0+ ｜ iPadOS 6.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.9+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 var offset: Int { get }

@@ -5,7 +5,7 @@ Initializer
 Creates a mutable descriptor with a specified value.
 创建具有指定值的可变描述符。
 
-iOS 6.0+iPadOS 6.0+Mac Catalyst 13.1+macOS 10.9+
+iOS 6.0+ ｜ iPadOS 6.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.9+ 
 
 ```
 init(

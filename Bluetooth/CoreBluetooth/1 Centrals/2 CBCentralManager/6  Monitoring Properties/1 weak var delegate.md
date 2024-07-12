@@ -5,7 +5,7 @@ Instance Property Instance 属性
 The delegate object that you want to receive central manager events.
 要接收中央管理器事件的委托对象。
 
-iOS 5.0+ iOS的5.0+iPadOS 5.0+Mac Catalyst 13.1+macOS 10.7+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 2.0+
+iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.7+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ ｜ 
 
 ```
 weak var delegate: (any CBCentralManagerDelegate)? { get set }

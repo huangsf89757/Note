@@ -5,7 +5,7 @@ Global Variable 全局变量
 A Boolean value that specifies whether the system warns the user if the app instantiates the central manager when Bluetooth service isn’t available.
 一个布尔值，指定当蓝牙服务不可用时，如果应用实例化中央管理器，系统是否警告用户。
 
-iOS 7.0+ ｜ iPadOS 7.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.9+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ ｜ 
+iOS 7.0+ ｜ iPadOS 7.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.9+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 let CBCentralManagerOptionShowPowerAlertKey: String

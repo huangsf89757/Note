@@ -5,7 +5,7 @@ Instance Property Instance 属性
 A Boolean value that indicates whether the central is currently scanning.
 一个 Boolean 值，该值指示中心当前是否正在扫描。
 
-iOS 9.0+ iOS的9.0 +iPadOS 9.0+Mac Catalyst 13.1+macOS 10.13+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 2.0+
+iOS 9.0+ ｜ iPadOS 9.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.13+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 var isScanning: Bool { get }

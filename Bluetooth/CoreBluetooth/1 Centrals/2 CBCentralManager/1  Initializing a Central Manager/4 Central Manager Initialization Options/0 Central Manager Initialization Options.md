@@ -1,6 +1,6 @@
 API Collection API集合
 
-# Central Manager Initialization Options 中央管理器选项
+# Central Manager Initialization Options 
 
 Keys used to pass options when initializing a central manager.
 初始化中央管理器时用于传递选项的键。

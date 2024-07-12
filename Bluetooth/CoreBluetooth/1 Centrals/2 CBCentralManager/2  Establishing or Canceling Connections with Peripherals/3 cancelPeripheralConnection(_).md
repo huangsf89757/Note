@@ -5,7 +5,7 @@ Instance Method Instance 方法
 Cancels an active or pending local connection to a peripheral.
 取消与外围设备的活动或挂起的本地连接。
 
-iOS 5.0+ iOS的5.0+iPadOS 5.0+Mac Catalyst 13.1+macOS 10.7+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 2.0+
+iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.7+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 func cancelPeripheralConnection(_ peripheral: CBPeripheral)

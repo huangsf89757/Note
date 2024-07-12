@@ -5,7 +5,7 @@ Class 类
 An object that manages and advertises peripheral services exposed by this app.
 管理和播发此应用公开的外围服务的对象。
 
-iOS 6.0+ iOS的6.0+iPadOS 6.0+Mac Catalyst 13.1+macOS 10.9+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 2.0+
+iOS 6.0+ ｜ iPadOS 6.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.9+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ ｜ 
 
 ```
 class CBPeripheralManager

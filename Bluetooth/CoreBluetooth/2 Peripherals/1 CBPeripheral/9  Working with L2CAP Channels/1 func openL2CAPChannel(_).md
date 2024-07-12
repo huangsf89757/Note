@@ -5,7 +5,7 @@ Instance Method Instance 方法
 Attempts to open an L2CAP channel to the peripheral using the supplied Protocol/Service Multiplexer (PSM).
 尝试使用随附的协议/服务多路复用器 （PSM） 打开通往外设的 L2CAP 通道。
 
-iOS 11.0+ iOS的11.0 +iPadOS 11.0+ iPadOS 11.0+ 操作系统Mac Catalyst 13.1+macOS 10.14+tvOS 11.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 4.0+
+iOS 11.0+ ｜ iPadOS 11.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.14+ ｜ tvOS 11.0+ ｜ visionOS 1.0+ ｜ watchOS 4.0+ 
 
 ```
 func openL2CAPChannel(_ PSM: CBL2CAPPSM)

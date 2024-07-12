@@ -1,11 +1,11 @@
 Instance Method Instance 方法
 
-# peripheral(_:didDiscoverIncludedServicesFor:error:) 外设（_：didDiscoverIncludedServicesFor：error：）
+# peripheral(_:didDiscoverIncludedServicesFor:error:) 
 
 Tells the delegate that discovering included services within the indicated service completed.
 告知委托已完成发现指示服务中的包含服务。
 
-iOS 5.0+ iOS的5.0+iPadOS 5.0+Mac Catalyst 13.1+macOS 10.7+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 2.0+
+iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.7+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 optional func peripheral(

@@ -5,7 +5,7 @@ Instance Method Instance 方法
 Removes a specified published service from the local GATT database.
 从本地 GATT 数据库中删除指定的已发布服务。
 
-iOS 6.0+ iOS的6.0+iPadOS 6.0+Mac Catalyst 13.1+macOS 10.9+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 2.0+
+iOS 6.0+ ｜ iPadOS 6.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.9+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 func remove(_ service: CBMutableService)

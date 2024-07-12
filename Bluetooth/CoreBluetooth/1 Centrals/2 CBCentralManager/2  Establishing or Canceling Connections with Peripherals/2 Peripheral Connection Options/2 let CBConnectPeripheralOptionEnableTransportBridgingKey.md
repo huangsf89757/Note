@@ -5,7 +5,7 @@ Global Variable 全局变量
 An option to bridge classic Bluetooth technology profiles, if already connected over Bluetooth Low Energy.
 如果已通过低功耗蓝牙连接，则可桥接经典蓝牙技术配置文件的选项。
 
-iOS 13.0+ ｜ iPadOS 13.0+ ｜ Mac Catalyst 13.1+ ｜ tvOS 13.0+ ｜ visionOS 1.0+ ｜ watchOS 6.0+ ｜ 
+iOS 13.0+ ｜ iPadOS 13.0+ ｜ Mac Catalyst 13.1+ ｜ tvOS 13.0+ ｜ visionOS 1.0+ ｜ watchOS 6.0+ 
 
 ```
 let CBConnectPeripheralOptionEnableTransportBridgingKey: String

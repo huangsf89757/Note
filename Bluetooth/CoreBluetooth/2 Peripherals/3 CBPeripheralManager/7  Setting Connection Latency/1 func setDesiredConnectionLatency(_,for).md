@@ -5,7 +5,7 @@ Instance Method Instance 方法
 Sets the desired connection latency for an existing connection to a central device.
 为与中央设备的现有连接设置所需的连接延迟。
 
-iOS 6.0+ iOS的6.0+iPadOS 6.0+Mac Catalyst 13.1+macOS 10.9+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 2.0+
+iOS 6.0+ ｜ iPadOS 6.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.9+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 func setDesiredConnectionLatency(

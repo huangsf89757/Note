@@ -5,7 +5,7 @@ Enumeration 列举
 Values representing the connection latency of the peripheral manager.
 表示外设管理器的连接延迟的值。
 
-iOS 6.0+ iOS的6.0+iPadOS 6.0+Mac Catalyst 13.1+macOS 10.9+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 2.0+
+iOS 6.0+ ｜ iPadOS 6.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.9+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 enum CBPeripheralManagerConnectionLatency

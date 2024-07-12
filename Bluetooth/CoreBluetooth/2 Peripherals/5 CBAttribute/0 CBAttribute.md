@@ -5,7 +5,7 @@ Class 类
 A representation of common aspects of services offered by a peripheral.
 外围设备提供的服务的公共方面的表示。
 
-iOS 8.0+iPadOS 8.0+Mac Catalyst 13.1+macOS 10.13+tvOS 9.0+visionOS 1.0+watchOS 2.0+
+iOS 8.0+ ｜ iPadOS 8.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.13+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 class CBAttribute

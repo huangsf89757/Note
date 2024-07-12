@@ -5,7 +5,7 @@ Enumeration 列举
 Values representing the current authorization state of the peripheral manager.
 表示外设管理器当前授权状态的值。
 
-iOS 7.0–13.0Deprecated 荒废的iPadOS 7.0–13.0Deprecated 荒废的Mac Catalyst 13.1–13.1Deprecated 荒废的macOS 10.9–10.15Deprecated 荒废的tvOS 9.0–13.0 Apple tvOS 9.0–13.0Deprecated 荒废的visionOS 1.0–1.0Deprecated 荒废的watchOS 2.0–6.0Deprecated 荒废的
+iOS 7.0–13.0`Deprecated` ｜ iPadOS 7.0–13.0`Deprecated` ｜ Mac Catalyst 13.1–13.1`Deprecated` ｜ macOS 10.9–10.15`Deprecated` ｜ tvOS 9.0–13.0`Deprecated` ｜ visionOS 1.0–1.0`Deprecated` ｜ watchOS 2.0–6.0`Deprecated`
 
 ```
 enum CBPeripheralManagerAuthorizationStatus

@@ -5,7 +5,7 @@ Protocol 协议
 A protocol that provides updates for local peripheral state and interactions with remote central devices.
 一种协议，用于更新本地外设状态以及与远程中央设备的交互。
 
-iOS 5.0+ iOS的5.0+iPadOS 5.0+Mac Catalyst 13.0+macOS 10.10+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 4.0+
+iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.0+ ｜ macOS 10.10+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 4.0+ 
 
 ```
 protocol CBPeripheralManagerDelegate : NSObjectProtocol

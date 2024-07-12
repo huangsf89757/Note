@@ -5,7 +5,7 @@ Enumeration 枚举
 The possible errors returned by a GATT server (a remote peripheral) during Bluetooth low energy ATT transactions.
 蓝牙低功耗ATT事务期间GATT服务器（远程外设）可能返回的错误。
 
-iOS 5.0+iPadOS 5.0+Mac Catalyst 13.0+macOS 10.10+tvOS 9.0+visionOS 1.0+watchOS 4.0+
+iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.0+ ｜ macOS 10.10+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 4.0+ 
 
 ```
 enum Code

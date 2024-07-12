@@ -1,11 +1,11 @@
 Instance Method Instance 方法
 
-# peripheralIsReady(toSendWriteWithoutResponse:) peripheralIsReady（toSendWriteWithoutResponse：）
+# peripheralIsReady(toSendWriteWithoutResponse:) 
 
 Tells the delegate that a peripheral is again ready to send characteristic updates.
 告知委托外围设备再次准备好发送特征更新。
 
-iOS 5.0+ iOS的5.0+iPadOS 5.0+Mac Catalyst 13.1+macOS 10.7+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 2.0+
+iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.7+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 optional func peripheralIsReady(toSendWriteWithoutResponse peripheral: CBPeripheral)

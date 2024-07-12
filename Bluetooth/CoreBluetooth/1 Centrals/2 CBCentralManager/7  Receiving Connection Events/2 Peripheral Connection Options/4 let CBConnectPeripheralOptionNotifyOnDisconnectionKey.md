@@ -5,7 +5,7 @@ Global Variable 全局变量
 A Boolean value that specifies whether the system should display an alert when disconnecting a peripheral in the background.
 一个 Boolean 值，该值指定在后台断开外围设备连接时系统是否应显示警报。
 
-iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.0+ ｜ macOS 10.10+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 4.0+ ｜ 
+iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.0+ ｜ macOS 10.10+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 4.0+ 
 
 ```
 let CBConnectPeripheralOptionNotifyOnDisconnectionKey: String

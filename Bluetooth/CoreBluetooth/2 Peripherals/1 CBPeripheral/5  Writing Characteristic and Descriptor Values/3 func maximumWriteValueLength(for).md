@@ -5,7 +5,7 @@ Instance Method Instance 方法
 The maximum amount of data, in bytes, you can send to a characteristic in a single write type.
 可以发送到单个写入类型特征的最大数据量（以字节为单位）。
 
-iOS 9.0+ iOS的9.0 +iPadOS 9.0+Mac Catalyst 13.1+macOS 10.12+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 2.0+
+iOS 9.0+ ｜ iPadOS 9.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.12+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 func maximumWriteValueLength(for type: CBCharacteristicWriteType) -> Int

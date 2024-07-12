@@ -5,7 +5,7 @@ Initializer
 Creates a newly initialized mutable service specified by UUID and service type.
 创建一个由UUID和服务类型指定的新初始化的可变服务。
 
-iOS 6.0+iPadOS 6.0+Mac Catalyst 13.1+macOS 10.9+
+iOS 6.0+ ｜ iPadOS 6.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.9+ 
 
 ```
 init(

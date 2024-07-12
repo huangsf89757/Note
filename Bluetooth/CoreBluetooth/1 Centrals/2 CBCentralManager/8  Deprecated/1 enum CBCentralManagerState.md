@@ -1,11 +1,11 @@
 Enumeration 列举
 
-# CBCentralManagerState CBCentralManager状态
+# CBCentralManagerState 
 
 Values that represent the current state of a central manager object.
 表示中央管理器对象的当前状态的值。
 
-iOS 5.0–10.0Deprecated 荒废的iPadOS 5.0–10.0Deprecated 荒废的Mac Catalyst 13.1–13.1Deprecated 荒废的macOS 10.7–10.13Deprecated 荒废的tvOS 9.0–10.0Deprecated 荒废的visionOS 1.0–1.0Deprecated 荒废的watchOS 2.0–3.0Deprecated 荒废的
+iOS 5.0–10.0`Deprecated` ｜ iPadOS 5.0–10.0`Deprecated` ｜ Mac Catalyst 13.1–13.1`Deprecated` ｜ macOS 10.7–10.13`Deprecated` ｜ tvOS 9.0–10.0`Deprecated` ｜ visionOS 1.0–1.0`Deprecated` ｜ watchOS 2.0–3.0`Deprecated`
 
 ```
 enum CBCentralManagerState

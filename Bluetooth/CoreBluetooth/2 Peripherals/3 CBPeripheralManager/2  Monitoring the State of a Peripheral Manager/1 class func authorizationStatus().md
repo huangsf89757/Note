@@ -5,7 +5,7 @@ Type Method Type 方法
 Returns the app’s authorization status for sharing data while in the background.
 返回应用在后台共享数据的授权状态。
 
-iOS 7.0–13.0Deprecated 荒废的iPadOS 7.0–13.0Deprecated 荒废的Mac Catalyst 13.1–13.1Deprecated 荒废的macOS 10.9–10.15Deprecated 荒废的tvOS 9.0–13.0 Apple tvOS 9.0–13.0Deprecated 荒废的visionOS 1.0–1.0Deprecated 荒废的watchOS 2.0–6.0Deprecated 荒废的
+iOS 7.0–13.0`Deprecated` ｜ iPadOS 7.0–13.0`Deprecated` ｜ Mac Catalyst 13.1–13.1`Deprecated` ｜ macOS 10.9–10.15`Deprecated` ｜ tvOS 9.0–13.0`Deprecated` ｜ visionOS 1.0–1.0`Deprecated` ｜ watchOS 2.0–6.0`Deprecated`
 
 ```
 class func authorizationStatus() -> CBPeripheralManagerAuthorizationStatus

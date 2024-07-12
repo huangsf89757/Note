@@ -1,11 +1,11 @@
 Instance Property 实例属性
 
-# value 值
+# value 
 
 The value of the characteristic.
 特性的值。
 
-iOS 6.0+iPadOS 6.0+Mac Catalyst 13.1+macOS 10.9+tvOS 9.0+visionOS 1.0+watchOS 2.0+
+iOS 6.0+ ｜ iPadOS 6.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.9+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 var value: Data? { get set }

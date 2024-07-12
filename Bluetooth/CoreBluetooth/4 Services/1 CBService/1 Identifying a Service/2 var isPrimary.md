@@ -5,7 +5,7 @@ Instance Property 实例属性
 A Boolean value that indicates whether the type of service is primary or secondary.
 一个布尔值，指示服务类型是主服务还是辅助服务。
 
-iOS 5.0+iPadOS 5.0+Mac Catalyst 13.1+macOS 10.7+tvOS 9.0+visionOS 1.0+watchOS 2.0+
+iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.7+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 var isPrimary: Bool { get }

@@ -5,7 +5,7 @@ Instance Property Instance 属性
 The Received Signal Strength Indicator (RSSI), in decibels, of the peripheral.
 外设的接收信号强度指示器 （RSSI），以分贝为单位。
 
-iOS 5.0–8.0Deprecated 荒废的iPadOS 5.0–8.0Deprecated 荒废的Mac Catalyst 13.1–13.1Deprecated 荒废的macOS 10.7–10.13Deprecated 荒废的tvOS 9.0+visionOS 1.0–1.0Deprecated 荒废的watchOS 2.0–2.0Deprecated 荒废的
+iOS 5.0–8.0`Deprecated` ｜ iPadOS 5.0–8.0`Deprecated` ｜ Mac Catalyst 13.1–13.1`Deprecated` ｜ macOS 10.7–10.13`Deprecated` ｜ tvOS 9.0+ ｜ visionOS 1.0–1.0`Deprecated` ｜ watchOS 2.0–2.0`Deprecated`
 
 ```
 var rssi: NSNumber? { get }

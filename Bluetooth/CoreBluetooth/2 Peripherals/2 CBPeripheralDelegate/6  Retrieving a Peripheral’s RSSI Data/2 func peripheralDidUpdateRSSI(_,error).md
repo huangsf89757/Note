@@ -5,7 +5,7 @@ Instance Method Instance 方法
 Tells the delegate that retrieving the value of the peripheral’s current Received Signal Strength Indicator (RSSI) succeeded.
 告知委托已成功检索外设的当前接收信号强度指示器 （RSSI） 的值。
 
-iOS 5.0–8.0Deprecated 荒废的iPadOS 5.0–8.0Deprecated 荒废的Mac Catalyst 13.1–13.1Deprecated 荒废的macOS 10.7–10.13Deprecated 荒废的tvOS 9.0+visionOS 1.0–1.0Deprecated 荒废的watchOS 2.0–2.0Deprecated 荒废的
+iOS 5.0–8.0`Deprecated` ｜ iPadOS 5.0–8.0`Deprecated` ｜ Mac Catalyst 13.1–13.1`Deprecated` ｜ macOS 10.7–10.13`Deprecated` ｜ tvOS 9.0+visionOS 1.0–1.0`Deprecated` ｜ watchOS 2.0–2.0`Deprecated`
 
 ```
 optional func peripheralDidUpdateRSSI(

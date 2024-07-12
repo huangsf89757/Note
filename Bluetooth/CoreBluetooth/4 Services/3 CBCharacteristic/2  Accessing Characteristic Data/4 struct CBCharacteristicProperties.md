@@ -5,7 +5,7 @@ Structure 结构
 Values that represent the possible properties of a characteristic.
 表示特性的可能属性的值。
 
-iOS 5.0+iPadOS 5.0+Mac Catalyst 13.0+macOS 10.10+tvOS 9.0+visionOS 1.0+watchOS 4.0+
+iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.0+ ｜ macOS 10.10+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 4.0+ 
 
 ```
 struct CBCharacteristicProperties

@@ -5,7 +5,7 @@ Global Variable 全局变量
 An array of peripherals for use when restoring the state of a central manager.
 用于恢复中央管理器状态的外围设备阵列。
 
-iOS 7.0+ ｜  iOS的7.0 + ｜ iPadOS 7.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.13+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜  视觉操作系统 1.0+ ｜ watchOS 2.0+ 
+iOS 7.0+ ｜ iPadOS 7.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.13+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 let CBCentralManagerRestoredStatePeripheralsKey: String

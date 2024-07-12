@@ -5,7 +5,7 @@ Global Variable 全局变量
 The PSM of an L2CAP channel associated with the GATT service containing this characteristic.
 与包含此特征的GATT服务关联的L2CAP通道的PSM。
 
-iOS 11.0+iPadOS 11.0+Mac Catalyst 13.1+macOS 10.13+tvOS 11.0+visionOS 1.0+watchOS 4.0+
+iOS 11.0+ ｜ iPadOS 11.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.13+ ｜ tvOS 11.0+ ｜ visionOS 1.0+ ｜ watchOS 4.0+ 
 
 ```
 let CBUUIDL2CAPPSMCharacteristicString: String

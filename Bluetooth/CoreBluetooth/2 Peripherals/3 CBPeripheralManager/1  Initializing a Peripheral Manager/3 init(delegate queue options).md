@@ -5,7 +5,7 @@ Initializer 初始 化
 Initializes the peripheral manager with a specified delegate, dispatch queue, and initialization options.
 使用指定的委托、调度队列和初始化选项初始化外设管理器。
 
-iOS 7.0+ iOS的7.0 +iPadOS 7.0+Mac Catalyst 13.1+macOS 10.9+
+iOS 7.0+ ｜ iPadOS 7.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.9+ 
 
 ```
 init(

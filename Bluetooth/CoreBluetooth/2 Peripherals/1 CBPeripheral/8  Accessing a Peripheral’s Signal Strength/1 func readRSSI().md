@@ -5,7 +5,7 @@ Instance Method Instance 方法
 Retrieves the current RSSI value for the peripheral while connected to the central manager.
 在连接到中央管理器时检索外围设备的当前 RSSI 值。
 
-iOS 5.0+ iOS的5.0+iPadOS 5.0+Mac Catalyst 13.1+macOS 10.7+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 2.0+
+iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.7+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 func readRSSI()

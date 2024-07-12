@@ -5,7 +5,7 @@ Instance Method Instance 方法
 Send an updated characteristic value to one or more subscribed centrals, using a notification or indication.
 使用通知或指示将更新的特征值发送到一个或多个订阅的中心。
 
-iOS 6.0+ iOS的6.0+iPadOS 6.0+Mac Catalyst 13.1+macOS 10.9+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 2.0+
+iOS 6.0+ ｜ iPadOS 6.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.9+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 func updateValue(

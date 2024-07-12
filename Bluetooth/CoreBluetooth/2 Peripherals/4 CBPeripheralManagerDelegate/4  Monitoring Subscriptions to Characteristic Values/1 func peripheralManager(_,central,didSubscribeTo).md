@@ -5,7 +5,7 @@ Instance Method Instance 方法
 Tells the delegate that a remote central device subscribed to a characteristic’s value.
 告知委托远程中心设备订阅了特征的值。
 
-iOS 6.0+ iOS的6.0+iPadOS 6.0+Mac Catalyst 13.1+macOS 10.9+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 2.0+
+iOS 6.0+ ｜ iPadOS 6.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.9+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 optional func peripheralManager(

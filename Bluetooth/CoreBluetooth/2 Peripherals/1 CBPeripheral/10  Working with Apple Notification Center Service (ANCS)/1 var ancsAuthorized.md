@@ -1,11 +1,11 @@
 Instance Property Instance 属性
 
-# ancsAuthorized ancs授权
+# ancsAuthorized 
 
 A Boolean value that indicates if the remote device has authorization to receive data over ANCS protocol.
 一个 Boolean 值，该值指示远程设备是否有权通过 ANCS 协议接收数据。
 
-iOS 13.0+ iOS的 13.0+iPadOS 13.0+Mac Catalyst 13.1+tvOS 13.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 6.0+ watchOS 6.0+ 操作系统
+iOS 13.0+ ｜ iPadOS 13.0+ ｜ Mac Catalyst 13.1+ ｜ tvOS 13.0+ ｜ visionOS 1.0+ ｜ watchOS 6.0+ 
 
 ```
 var ancsAuthorized: Bool { get }

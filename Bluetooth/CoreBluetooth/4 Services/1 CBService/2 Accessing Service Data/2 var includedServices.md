@@ -5,7 +5,7 @@ Instance Property 实例属性
 A list of included services discovered in this service.
 在此服务中发现的包含服务的列表。
 
-iOS 5.0+iPadOS 5.0+Mac Catalyst 13.1+macOS 10.7+tvOS 9.0+visionOS 1.0+watchOS 2.0+
+iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.7+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 var includedServices: [CBService]? { get }

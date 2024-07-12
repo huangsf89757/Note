@@ -7,7 +7,7 @@ Discover and communicate with a Bluetooth Classic device by using the Core Bluet
 
 [Download  下载](https://docs-assets.developer.apple.com/published/887ceff61b84/UsingCoreBluetoothClassic.zip)
 
-iOS 13.0+iPadOS 13.0+Xcode 11.0+
+iOS 13.0+ ｜ iPadOS 13.0+ ｜ Xcode 11.0+ 
 
 ## [Overview 概述](https://developer.apple.com/documentation/corebluetooth/using-core-bluetooth-classic#Overview)
 

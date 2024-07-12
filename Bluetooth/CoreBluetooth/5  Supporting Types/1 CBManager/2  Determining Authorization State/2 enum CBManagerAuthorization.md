@@ -5,7 +5,7 @@ Enumeration 枚举
 The current authorization state of a Core Bluetooth manager.
 核心蓝牙管理器的当前授权状态。
 
-iOS 13.0+iPadOS 13.0+Mac Catalyst 13.1+macOS 10.15+tvOS 13.0+visionOS 1.0+watchOS 6.0+
+iOS 13.0+ ｜ iPadOS 13.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.15+ ｜ tvOS 13.0+ ｜ visionOS 1.0+ ｜ watchOS 6.0+ 
 
 ```
 enum CBManagerAuthorization

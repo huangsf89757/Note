@@ -5,7 +5,7 @@ Instance Method Instance 方法
 Publishes a service and any of its associated characteristics and characteristic descriptors to the local GATT database.
 将服务及其任何关联的特征和特征描述符发布到本地 GATT 数据库。
 
-iOS 6.0+ iOS的6.0+iPadOS 6.0+Mac Catalyst 13.1+macOS 10.9+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 2.0+
+iOS 6.0+ ｜ iPadOS 6.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.9+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 func add(_ service: CBMutableService)

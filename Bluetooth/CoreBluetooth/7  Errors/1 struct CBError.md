@@ -5,7 +5,7 @@ Structure 结构
 An error that Core Bluetooth returns during Bluetooth transactions.
 Core Bluetooth在蓝牙事务期间返回的错误。
 
-iOS 5.0+iPadOS 5.0+Mac Catalyst 13.0+macOS 10.10+tvOS 9.0+visionOS 1.0+watchOS 4.0+
+iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.0+ ｜ macOS 10.10+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 4.0+ 
 
 ```
 struct CBError

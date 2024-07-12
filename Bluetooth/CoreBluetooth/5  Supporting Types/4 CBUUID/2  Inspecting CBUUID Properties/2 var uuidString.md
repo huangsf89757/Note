@@ -5,7 +5,7 @@ Instance Property 实例属性
 The UUID represented as a string.
 表示为字符串的UUID。
 
-iOS 7.1+iPadOS 7.1+Mac Catalyst 13.1+macOS 10.10+tvOS 9.0+visionOS 1.0+watchOS 2.0+
+iOS 7.1+ ｜ iPadOS 7.1+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.10+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 var uuidString: String { get }

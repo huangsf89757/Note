@@ -5,7 +5,7 @@ Instance Property 实例属性
 The current state of the manager.
 管理器的当前状态。
 
-iOS 10.0+iPadOS 10.0+Mac Catalyst 13.1+macOS 10.13+tvOS 10.0+visionOS 1.0+watchOS 3.0+
+iOS 10.0+ ｜ iPadOS 10.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.13+ ｜ tvOS 10.0+ ｜ visionOS 1.0+ ｜ watchOS 3.0+ 
 
 ```
 var state: CBManagerState { get }

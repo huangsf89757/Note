@@ -5,7 +5,7 @@ Class 类
 The abstract base class that manages central and peripheral objects.
 管理中心对象和外围对象的抽象基类。
 
-iOS 10.0+iPadOS 10.0+Mac Catalyst 13.1+macOS 10.13+tvOS 10.0+visionOS 1.0+watchOS 3.0+
+iOS 10.0+ ｜ iPadOS 10.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.13+ ｜ tvOS 10.0+ ｜ visionOS 1.0+ ｜ watchOS 3.0+ 
 
 ```
 class CBManager

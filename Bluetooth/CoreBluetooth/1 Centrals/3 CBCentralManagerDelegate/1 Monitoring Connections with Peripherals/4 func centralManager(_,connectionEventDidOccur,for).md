@@ -5,7 +5,7 @@ Instance Method Instance 方法
 Tells the delegate that a connection event occurred which matches the registered options.
 告知委托发生了与已注册选项匹配的连接事件。
 
-iOS 13.0+ iOS的 13.0+iPadOS 13.0+Mac Catalyst 13.1+tvOS 13.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 6.0+ watchOS 6.0+ 操作系统
+iOS 13.0+ ｜ iPadOS 13.0+ ｜ Mac Catalyst 13.1+ ｜ tvOS 13.0+ ｜ visionOS 1.0+ ｜ watchOS 6.0+ 
 
 ```
 optional func centralManager(

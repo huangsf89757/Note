@@ -1,11 +1,11 @@
 Instance Method Instance 方法
 
-# peripheral(_:didUpdateValueFor:error:) 外设（_：didUpdateValueFor：error：）
+# peripheral(_:didUpdateValueFor:error:) 
 
 Tells the delegate that retrieving the specified characteristic’s value succeeded, or that the characteristic’s value changed.
 告知委托检索指定特征的值已成功，或者特征的值已更改。
 
-iOS 5.0+ iOS的5.0+iPadOS 5.0+Mac Catalyst 13.1+macOS 10.7+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 2.0+
+iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.7+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 optional func peripheral(

@@ -5,7 +5,7 @@ Instance Property 实例属性
 The current authorization status for using Bluetooth.
 使用蓝牙的当前授权状态。
 
-iOS 13.0–13.1 iOS 13.0-13.1Deprecated 弃用iPadOS 13.0–13.1 iPadOS 13.0-13.1Deprecated 弃用Mac Catalyst 13.1–13.1 Mac Catalyst 13.1-13.1Deprecated 弃用macOS 10.13+tvOS 13.0–13.0 tvOS 13.0-13.0Deprecated 弃用visionOS 1.0–1.0 visionOS 1.0-1.0Deprecated 弃用watchOS 6.0–6.0 watchOS 6.0-6.0Deprecated 弃用
+iOS 13.0–13.1`Deprecated` | iPadOS 13.0–13.1`Deprecated` | Mac Catalyst 13.1–13.1`Deprecated` | macOS 10.13+ | tvOS 13.0–13.0`Deprecated` | visionOS 1.0–1.0`Deprecated` | watchOS 6.0–6.0`Deprecated`
 
 ```
 var authorization: CBManagerAuthorization { get }

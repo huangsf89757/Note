@@ -5,7 +5,7 @@ Instance Method Instance 方法
 Tells the delegate that the peripheral received a request to start or stop providing notifications for a specified characteristic’s value.
 告知委托外围设备收到开始或停止为指定特征值提供通知的请求。
 
-iOS 5.0+ iOS的5.0+iPadOS 5.0+Mac Catalyst 13.1+macOS 10.7+tvOS 9.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 2.0+
+iOS 5.0+ ｜ iPadOS 5.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.7+ ｜ tvOS 9.0+ ｜ visionOS 1.0+ ｜ watchOS 2.0+ 
 
 ```
 optional func peripheral(

@@ -1,6 +1,6 @@
 API Collection API 集合
 
-# Advertisement Data Retrieval Keys 播发数据检索密钥
+# Advertisement Data Retrieval Keys 
 
 Keys used to specify items in a dictionary of peripheral advertisement data.
 用于指定外围通告数据字典中的项的键。

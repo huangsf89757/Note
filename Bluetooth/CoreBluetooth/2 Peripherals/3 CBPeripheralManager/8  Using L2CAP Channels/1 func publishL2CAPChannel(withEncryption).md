@@ -5,7 +5,7 @@ Instance Method Instance 方法
 Creates a listener for incoming L2CAP channel connections.
 为传入的 L2CAP 通道连接创建侦听器。
 
-iOS 11.0+ iOS的11.0 +iPadOS 11.0+ iPadOS 11.0+ 操作系统Mac Catalyst 13.1+macOS 10.14+tvOS 11.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 4.0+
+iOS 11.0+ ｜ iPadOS 11.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.14+ ｜ tvOS 11.0+ ｜ visionOS 1.0+ ｜ watchOS 4.0+ 
 
 ```
 func publishL2CAPChannel(withEncryption encryptionRequired: Bool)

@@ -1,11 +1,11 @@
 Instance Method Instance 方法
 
-# peripheral(_:didOpen:error:) 外设（_：didOpen：error：）
+# peripheral(_:didOpen:error:) 
 
 Delivers the result of an attempt to open an L2CAP channel.
 提供尝试打开 L2CAP 通道的结果。
 
-iOS 11.0+ iOS的11.0 +iPadOS 11.0+ iPadOS 11.0+ 操作系统Mac Catalyst 13.1+macOS 10.13+tvOS 11.0+visionOS 1.0+ 视觉操作系统 1.0+watchOS 4.0+
+iOS 11.0+ ｜ iPadOS 11.0+ ｜ Mac Catalyst 13.1+ ｜ macOS 10.13+ ｜ tvOS 11.0+ ｜ visionOS 1.0+ ｜ watchOS 4.0+ 
 
 ```
 optional func peripheral(
