@@ -21,7 +21,7 @@ Core Bluetooth background execution modes aren’t supported in iPad apps runnin
 在macOS上运行的iPad应用不支持核心蓝牙后台执行模式。
 
 
-
+> [!IMPORTANT]
 > **Important 重要**
 >
 > Your app will crash if its `Info.plist` doesn’t include usage description keys for the types of data it needs to access. To access Core Bluetooth APIs on apps linked on or after iOS 13, include the [`NSBluetoothAlwaysUsageDescription`](https://developer.apple.com/documentation/bundleresources/information_property_list/nsbluetoothalwaysusagedescription) key. In iOS 12 and earlier, include [`NSBluetoothPeripheralUsageDescription`](https://developer.apple.com/documentation/bundleresources/information_property_list/nsbluetoothperipheralusagedescription) to access Bluetooth peripheral data.

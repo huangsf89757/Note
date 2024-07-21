@@ -1,0 +1,158 @@
+{
+  "main": {
+    "id": "3605df61339e4dc4",
+    "type": "split",
+    "children": [
+      {
+        "id": "377e4c182716fc7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba2cc7875604b935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bluetooth/CoreBluetooth Document/0 CoreBluetooth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2af23c2b03aec678",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff4d3c607805cf8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cec277d84b61108a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "08a2869912c09a0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "577e4dcba6f22050",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f36b37d30fd6de94",
+    "type": "split",
+    "children": [
+      {
+        "id": "88475c2bc906dc5f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ee72cd708c42e2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bluetooth/CoreBluetooth Document/0 CoreBluetooth.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f05067feb5fb18f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bluetooth/CoreBluetooth Document/0 CoreBluetooth.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0f475b51e3f102e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8d0a3d854e7a08d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bluetooth/CoreBluetooth Document/0 CoreBluetooth.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "ba2cc7875604b935",
+  "lastOpenFiles": [
+    "example.md",
+    "Bluetooth/CoreBluetooth Document/0 CoreBluetooth.md",
+    "Bluetooth/CoreBluetooth Document/1 Centrals/2 CBCentralManager/0 CBCentralManager.md",
+    "Bluetooth/CoreBluetooth Document/1 Centrals/2 CBCentralManager/1  Initializing a Central Manager/2 init(delegate,queue) .md",
+    "Bluetooth/CoreBluetooth Document/1 Centrals/1 CBCentral/1  Identifying a Remote Central/1 func updateValue(_,for,onSubscribedCentrals).md",
+    "Bluetooth/CoreBluetooth Document/1 Centrals/1 CBCentral/1  Identifying a Remote Central/0 var maximumUpdateValueLength.md"
+  ]
+}

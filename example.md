@@ -3,8 +3,9 @@ headingNumber: true
 enableMacro: true
 customVar: Hello
 define:
-    --APP_NAME--: Yank Note
-    --APP_VERSION--: '[= $ctx.version =]'
+  --APP_NAME--: Yank Note
+  --APP_VERSION--: "[= $ctx.version =]"
+cssclasses:
 ---
 
 DEMO 模式下一些功能不可用{style="color: red; font-size: 30px"}
@@ -51,6 +52,7 @@ Click the TODO item in preview to try
 + [x] ~~2021-06-06 10:27~~ TEST1
 + [x] ~~2021-06-06 10:27~~ TEST2
 + [x] ~~2021-06-06 10:27~~ TEST3
++ [ ] sadfa
 
 ## Encrypted Document
 
@@ -63,7 +65,8 @@ Click the TODO item in preview to try
 Type '/' in the editor to get prompts
 
 + Mark: ==marked==
-+ Sup: 29^th^
++ ==asdfasdfa==
++ Sup: ==29^th^==
 + Sub: H~2~0
 + Footnote: footnote[^1] syntax[^2]
 + Emoji: :) :joy:
@@ -141,7 +144,9 @@ Just need to add `{.mindmap}` to the end of root node of the list.
     + [7] Agility and Efficiency
     + [8] Grace and Simplicity
     + [9] Fault Tolerance
+    + [x] fdasf
     + [10] Friendly Help
+    + 
 
 Mind map is implemented using [kityminder-core](https://github.com/fex-team/kityminder-core).
 
@@ -154,6 +159,7 @@ B --> C{Decision}
 C -->|One| D[Result 1]
 C -->|Two| E[Result 2]
 ```
+
 
 ```mermaid
 sequenceDiagram
@@ -217,7 +223,6 @@ If it prompts an error `Cannot find Graphviz`,
 Please refer to [Test your GraphViz installation](https://plantuml.com/graphviz-dot)
 
 The example is as follows
-
 @startuml
 a -> b
 @enduml
@@ -245,14 +250,14 @@ List:        | More  \
 Test | Test
 [Test Table]
 
-First header | Second header
-:-----------:|:--------------:
-AAAAAAAAAAAA | BBBBBBBBBBBBBB
-AAAAAAAAAAAA | BBBBBBBBBBBBBB
-AAAAAAAAAAAA | BBBBBBBBBBBBBB
-AAAAAAAAAAAA | BBBBBBBBBBBBBB
-AAAAAAAAAAAA | BBBBBBBBBBBBBB
-Test | Test
+| First header | Second header  |
+| :----------: | :------------: |
+| AAAAAAAAAAAA | BBBBBBBBBBBBBB |
+| AAAAAAAAAAAA | BBBBBBBBBBBBBB |
+| AAAAAAAAAAAA | BBBBBBBBBBBBBB |
+| AAAAAAAAAAAA | BBBBBBBBBBBBBB |
+| AAAAAAAAAAAA | BBBBBBBBBBBBBB |
+|     Test     |      Test      |
 [Small Table]
 {.small}
 
