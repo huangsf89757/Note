@@ -332,7 +332,7 @@ REM --run--
 ```c
 // --run-- gcc $tmpFile.c -o $tmpFile.out && $tmpFile.out
 
-#include <stdio.h>
+[[include]] <stdio.h>
 
 int main () {
     printf("Hello, World!");
@@ -564,7 +564,7 @@ test 3
 :::
 ::::
 
-::::: row Columns
+==:== row Columns
 :::: col TODO
 ::: warning
 Item 1
@@ -584,7 +584,7 @@ Item 4
 Item 5
 :::
 ::::
-:::::
+==:==
 
 :::: row
 ::: col Column 1

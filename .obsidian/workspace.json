@@ -128,6 +128,18 @@
                 "file": "Bluetooth/CoreBluetooth Document/0 CoreBluetooth.md"
               }
             }
+          },
+          {
+            "id": "ac5aa096f701feda",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -143,13 +155,22 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "publish:发布更改": false,
+      "workspaces:管理工作区布局": false,
+      "audio-recorder:开始/结束录音": false,
+      "random-note:开始漫游笔记": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "ba2cc7875604b935",
+  "active": "cec277d84b61108a",
   "lastOpenFiles": [
-    "example.md",
+    "2024-10-09.md",
     "Bluetooth/CoreBluetooth Document/0 CoreBluetooth.md",
+    "未命名.canvas",
+    "未命名.md",
+    "example.md",
     "Bluetooth/CoreBluetooth Document/1 Centrals/2 CBCentralManager/0 CBCentralManager.md",
     "Bluetooth/CoreBluetooth Document/1 Centrals/2 CBCentralManager/1  Initializing a Central Manager/2 init(delegate,queue) .md",
     "Bluetooth/CoreBluetooth Document/1 Centrals/1 CBCentral/1  Identifying a Remote Central/1 func updateValue(_,for,onSubscribedCentrals).md",
